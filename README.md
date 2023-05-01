@@ -1,4 +1,4 @@
-<article> I'm a former English Professor with a passion for exploring how things work, from language and literature to bikes, electronics, and cars. I thrive when I have a difficult problem to solve, and I love to learn new things. My background in teaching and academic research has given me a strong foundation in critical thinking, problem solving, and communication. I'm excited to apply these skills to a career in software development. </article>
+<article> I'm a former English Professor with a passion for exploring how things work, from language and literature to bikes, electronics, and cars. I thrive when I have a difficult problem to solve, and I love to learn new things. My background in teaching and academic research has given me a strong foundation in critical thinking, problem solving, and communication, and I'm excited to apply these skills to a career in software development. </article>
 
 <hr></hr>
 
