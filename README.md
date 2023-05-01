@@ -6,16 +6,13 @@
 
 <table> 
     <thead>
-        <th> Tech Skills </th>
+        <th> Languages </th>
+            <th> Frameworks </th>
+            <th> Databases </th>
+            <th> Tools </th>
+            <th> Libraries </th>   
     </thead>
     <tbody>
-        <tr>
-            <th> Languages </td>
-            <th> Frameworks </td>
-            <th> Databases </td>
-            <th> Tools </td>
-            <th> Libraries </td>    
-        </tr>
         <tr>
             <td> JavaScript </td>
             <td> ReactJS </td>
