@@ -4,18 +4,16 @@
 
 <h1>Skills</h1>
 
-<table> 
+<table>
     <thead>
-        <th> Tech Skills </th>
-    </thead>
-    <tbody>
-        <tr>
-            <th> Languages </td>
+        <th> Languages </td>
             <th> Frameworks </td>
             <th> Databases </td>
             <th> Tools </td>
             <th> Libraries </td>    
-        </tr>
+    </thead>
+    <tbody>
+
         <tr>
             <td> JavaScript </td>
             <td> ReactJS </td>
