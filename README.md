@@ -46,7 +46,7 @@
 
 <h1> PROJECTS </h1>
 
-<a href='https://github.com/jimcreel/disneyReservationChecker'><h2> Disney Reservation App Code</h2></a>
+<h2> <a href='https://github.com/jimcreel/disneyReservationChecker'>Disney Reservation App Code</a></h2>
 <hr> </hr>
 <h3> Mongoose/Express/Node </h3>
 <article> 
@@ -59,7 +59,7 @@
 <img src='img/reservationCheckerScreenshot.png' alt='Disney Reservation App'  height='300px'>
 <hr> </hr>
 
-<a href='https://github.com/jimcreel/mlbScores'><h2> MLB Scores, Stats, and Info</h2></a>
+<h2><a href='https://github.com/jimcreel/mlbScores'> MLB Scores, Stats, and Info</a></h2>
 
 <h3> Mongoose/Express/React/Node </h3>
 <article> 
@@ -72,7 +72,7 @@
 
 <hr> </hr>
 
-<a href='https://github.com/jimcreel/brickbybrick'><h2> Brick By Brick</h2></a>
+<h2><a href='https://github.com/jimcreel/brickbybrick'> Brick By Brick</a></h2>
 
 <h3> Django Team Project </h3>
 <article> 
