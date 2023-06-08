@@ -84,6 +84,6 @@
 <hr> </hr>
 
 <h1> Portfolio/Contact Info </h1>
-<p> Portfolio: <a href="https://jimcreel.github.io">Jim Creel</a> </p>
+<p> Portfolio: <a href="http://www.jim-creel.com">Jim Creel</a> </p>
 <p> LinkedIn: <a href="https://www.linkedin.com/in/jim-creel/">Jim Creel</a> </p>
 <p> Email: <a href="mailto:jim.creel@gmail.com">jim.creel@gmail.com</a></p>
